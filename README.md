@@ -19,4 +19,23 @@ A fun and interactive **Tic-Tac-Toe game** built using HTML, CSS, and JavaScript
 - **JavaScript** for game logic and interactivity
 
 ## 📂 File Structure
+📦 tic-tac-toe
+┣ 📄 index.html → Game UI and structure
+┣ 📄 styles.css → Game styling
+┗ 📄 script.js → Game logic
 
+pgsql
+Copy
+Edit
+
+## 🚀 How to Play
+
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
+3. Players take turns clicking on cells to place their marks.
+4. The game automatically detects a winner or draw.
+5. Click "Reset Game" to start over.
+
+## 📃 License
+
+MIT – Feel free to use, modify, and share.
